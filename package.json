@@ -1,7 +1,6 @@
 {
   "name": "email",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,6 +13,16 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.15",
-    "multer": "^1.4.4"
-  }
+    "multer": "^1.4.4",
+    "node": "^17.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KapoorKartik/file_uploads.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KapoorKartik/file_uploads/issues"
+  },
+  "homepage": "https://github.com/KapoorKartik/file_uploads#readme",
+  "description": ""
 }
